@@ -7,12 +7,14 @@ import {
 } from 'react-navigation';
 import Home from "../../src/Home";
 import Detail from "../../src/Detail";
+import ShouldComponent from "../../src/ShouldComponent";
 
 
 const SNavigator = createStackNavigator({
 
+    ShouldComponent: ShouldComponent,
+    Detail: Detail,
     Home: Home,
-    Detail: Detail
 
     }, {
         headerMode: 'none',

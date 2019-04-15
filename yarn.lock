@@ -4941,6 +4941,11 @@ regenerator-runtime@^0.12.0:
   resolved "https://registry.npmjs.org/regenerator-runtime/-/regenerator-runtime-0.12.1.tgz#fa1a71544764c036f8c49b13a08b2594c9f8a0de"
   integrity sha512-odxIc1/vDlo4iZcfXqRYFj0vpXFNoGdKMAUieAlFYO6m/nl5e9KR/beGf41z4a1FI+aQgtjhuaSlDxQ0hmkrHg==
 
+regenerator-runtime@^0.13.1:
+  version "0.13.1"
+  resolved "https://registry.npmjs.org/regenerator-runtime/-/regenerator-runtime-0.13.1.tgz#522ea2aafd9200a00eee143dc14219a35a0f3991"
+  integrity sha512-5KzMIyPLvfdPmvsdlYsHqITrDfK9k7bmvf97HvHSN4810i254ponbxCQ1NukpRWlu6en2MBWzAlhDExEKISwAA==
+
 regenerator-transform@^0.13.3:
   version "0.13.4"
   resolved "https://registry.npmjs.org/regenerator-transform/-/regenerator-transform-0.13.4.tgz#18f6763cf1382c69c36df76c6ce122cc694284fb"
@@ -6145,7 +6150,7 @@ yargs@^9.0.0:
     y18n "^3.2.1"
     yargs-parser "^7.0.0"
 
-zero-wolf-views@^0.2.4:
-  version "0.2.4"
-  resolved "https://registry.npmjs.org/zero-wolf-views/-/zero-wolf-views-0.2.4.tgz#1094b3f1b20985e68eb62e7c6d241caaa4c3e0e5"
-  integrity sha512-nXUInuUWdGUX4gd3ijEt1y745AOM+LFWBsFfFdeKCwnkoeAFXhR92rq9I9K3Zca8v5q4hR5rOLpEcAVXHG3PNw==
+zero-wolf-views@^0.2.5:
+  version "0.2.7"
+  resolved "https://registry.npmjs.org/zero-wolf-views/-/zero-wolf-views-0.2.7.tgz#ca6a17f304b351743132b1136d24cdff4188b538"
+  integrity sha512-9oZPXgSScbd6vJU0qxbb2zgsiBSxJpV35lVpfw9nqYZ+Y18yI+9Z9lf0kM5NI2YYEehvLWsanUi84yVK34e2zA==
